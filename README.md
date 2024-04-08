@@ -10,7 +10,7 @@
 ###  Мой Linkedin:
 
   <div id="badges">
-    <a href="[https://www.linkedin.com/in/anna-lukyanova-bb1220257/]/" target="_blank">
+    <a href="https://www.linkedin.com/in/anna-lukyanova-bb1220257/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
   </div>
