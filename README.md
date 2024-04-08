@@ -1,4 +1,4 @@
-[![Frame85](https://github.com/LukyanovaAnna/lukyanovaanna/blob/main/Frame%2085.png)]
+![Frame85](https://github.com/LukyanovaAnna/lukyanovaanna/blob/main/Frame%2085.png)]
 ### Привет, я Аня! 👋
 
 ---
